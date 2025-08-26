@@ -1,0 +1,1 @@
+Dans ce code on teste les entree utilisateur par la voie serie de l'IDE Arduino
